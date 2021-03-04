@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>JNE</name>
+   <tag></tag>
+   <elementGuidId>ad0b18d4-aa9b-45ab-b250-0f67f91be8fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ijoin-app&quot;]/div[1]/div/main/div/div/div/div[1]/div/div/form/div[5]/section/div/div[2]/div[1]/div/span[3]/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

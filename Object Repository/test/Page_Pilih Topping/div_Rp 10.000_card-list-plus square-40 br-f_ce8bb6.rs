@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp 10.000_card-list-plus square-40 br-f_ce8bb6</name>
+   <tag></tag>
+   <elementGuidId>b5253883-9cac-4ea0-bddc-c480d2241c78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='select-topping']/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-list-plus.square-40.br-full.bg-icon-plus.bg-no-repeat.o-h.center-absolute.bg-position-center.base-shadow-v2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-list-plus square-40 br-full bg-icon-plus bg-no-repeat o-h center-absolute bg-position-center base-shadow-v2</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ijoin-app&quot;)/div[@class=&quot;app-body&quot;]/div[@class=&quot;bg-soft-white&quot;]/main[1]/div[@class=&quot;addons-wrapper pos-r&quot;]/div[@class=&quot;addons-content&quot;]/div[@class=&quot;addons-container&quot;]/div[@class=&quot;container-flex mini&quot;]/div[@class=&quot;column-container mini addons-lists clearfix&quot;]/div[@class=&quot;column-2&quot;]/div[@class=&quot;colum-inner&quot;]/div[@class=&quot;comp-ready undefined&quot;]/div[@id=&quot;select-topping&quot;]/div[@class=&quot;card-list pos-r gutter-bottom-2x c-pointer&quot;]/div[@class=&quot;center-right-absolute&quot;]/div[@class=&quot;card-list-icon-wrap square-52 br-full bg-soft-gray pos-r&quot;]/div[@class=&quot;card-list-plus square-40 br-full bg-icon-plus bg-no-repeat o-h center-absolute bg-position-center base-shadow-v2&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='select-topping']/div/div[3]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[3]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>
